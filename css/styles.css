@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.hero-background {
+    background: url("../assets/images/bluemountains.png") center bottom no-repeat;
+    
+    height: 60vh;
+    background-color: #c6d4d4;
+    background-size: contain;
+}
+
+.hero-background > img {
+    width: 100%;
+}
+
+.heading {
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    color: whitesmoke !important;
+}
+
+.p-head {
+    font-size: 25px;
+    letter-spacing: 0.2rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+
+.main{
+    background-color:azure;
+    color: grey;
+    /* height: 400px; */
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.bottom-container {
+    text-align: center;
+    background-color: #93cccc;
+    color: white;
+}
+.bottom-container > a {
+    color: white;
+    
+}
+.btn-success {
+    background-color: #93cccc !important;
+    border: none;
+}
